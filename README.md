@@ -2,7 +2,7 @@
 some cat joker mod for the addicting deck building game "Balatro" by LocalThunk, providing a use for 3s, based on a balatro meme called "el gato balatro" (Balatro Cat)
 
 This mod requires the lovely injector and the Steamodded balatro injector. <br>
-Links below.
+Links below. <br>
 https://github.com/ethangreen-dev/lovely-injector/ <br>
 https://github.com/Steamodded/smods <br>
 
